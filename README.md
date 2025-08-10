@@ -25,7 +25,7 @@ A responsive movie browsing application built with React.js and Tailwind CSS, us
 
     Clone the repository
 
-git clone https://github.com/adrianhajdin/react-movies.git
+git clone https://github.com/Zephieeeeee/moviesx
 cd react-movies
 
 Install dependencies
